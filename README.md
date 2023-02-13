@@ -1,5 +1,5 @@
 ## Daily Activity
-[![Daily Activity](https://github-readme-activity-graph.cyclic.app/graph?username=kunpai&bg_color=000000&color=fff&line=0194dd&point=5194f0&area=true)]
+![Daily Activity](https://github-readme-activity-graph.cyclic.app/graph?username=kunpai&bg_color=000000&color=fff&line=0194dd&point=5194f0&area=true)
 
 ## GitHub stats
 [![Kunal's GitHub stats](https://github-readme-stats-helloparthshah.vercel.app/api?username=kunpai&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
