@@ -11,4 +11,4 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kunpai&theme=radical)](https://git.io/streak-stats)
 
 ## 🏆 GitHub Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=kunpai&column=8&theme=radical)](https://github-profile-trophy.vercel.app/?username=kunpai&column=8)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kunpai&column=8&theme=radical)](https://github-profile-trophy.vercel.app/?username=kunpai&column=8).
