@@ -1,4 +1,4 @@
-## Research Interest s
+## Research Interests
 Computer Architecture, Machine Learning, Software Engineering
 
 ## Daily Activity
