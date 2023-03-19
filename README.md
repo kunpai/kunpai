@@ -1,5 +1,5 @@
 ## Research Interests
-Computer Architecture, Machine Learning, Software a
+Computer Architecture, Machine Learning, Software Engineering
 
 ## Daily Activity
 ![Daily Activity](https://github-readme-activity-graph.cyclic.app/graph?username=kunpai&bg_color=000000&color=fff&line=0194dd&point=5194f0&area=true)
